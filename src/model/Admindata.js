@@ -4,7 +4,7 @@ const mongoose =require ('mongoose');
 
 // for connecting database
 
-mongoose.connect('mongodb://localhost:27017/Angular');
+mongoose.connect('mongodb+srv://usertwo:usertwo@ictak.05key.mongodb.net/LIBRARYAPP?retryWrites=true&w=majority');
 
 // to create schema
 
