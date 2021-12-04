@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\libraryApp-Angular"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Backend libraryApp-Angular"
+	}
+}
