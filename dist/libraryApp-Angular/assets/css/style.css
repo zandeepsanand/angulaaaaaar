@@ -44,6 +44,9 @@ input {
   top: 0;
   left: 0;
 }
+.textdanger{
+  color: rgb(228, 58, 58);
+}
 
 .container__panels {
   position: absolute;
